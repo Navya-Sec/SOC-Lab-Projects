@@ -1,0 +1,37 @@
+# Wazuh SIEM Installation and Configuration Lab
+
+## Overview
+
+Successfully installed and configured Wazuh SIEM from scratch in a Linux environment as part of the ESCOSS Cyber Security Internship. The project involved deploying the Wazuh Manager and Dashboard, verifying services, and documenting the complete installation process with troubleshooting and validation.
+
+## Tools Used
+
+- Wazuh SIEM
+- Ubuntu Linux
+- VirtualBox
+- Linux Terminal
+
+## Skills Demonstrated
+
+- SIEM Installation
+- Linux Administration
+- Wazuh Configuration
+- Security Monitoring
+- Troubleshooting
+- Technical Documentation
+
+## Documentation
+
+📄 **Wazuh_SIEM_Installation_Report.pdf**
+
+The attached report includes:
+- Installation prerequisites
+- Step-by-step installation
+- Configuration
+- Verification
+- Troubleshooting
+- Final validation
+
+## Outcome
+
+Successfully deployed a functional Wazuh SIEM environment and verified its readiness for security monitoring and endpoint integration.
